@@ -20,3 +20,6 @@ This is simple student management system coded in HTML, CSS, JAVASCRIPT AND PHP 
 
 # Create new account
 ![image](https://user-images.githubusercontent.com/56357173/182375743-32c2bed2-9f20-40f1-a302-1e3dc07f5b71.png)
+
+# Login page for students
+![image](https://user-images.githubusercontent.com/56357173/182376210-57be359c-65fb-4a48-a034-89fcd85477f5.png)
